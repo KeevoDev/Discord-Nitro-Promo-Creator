@@ -5,7 +5,7 @@ a tool for scraping medal.tv nitro from discord tokens
 # West Nitro Promo Creator
 
 simple gets nitro from discord tokens
-required email verified tokens
+required unlocked tokens
 
 
 Showcase:
